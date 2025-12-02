@@ -1,4 +1,4 @@
-# Qovery Terraform Examples
+# Qovery Terraform Provider Examples
 
 This repository contains ready to use Terraform [examples](/examples) with Qovery to create outstanding cloud infrastructure. Feel free to
 use them, modify them and share them with us and [our community](https://discuss.qovery.com).
